@@ -1,0 +1,10 @@
+{
+    "name": "ec3m20c3/ec3m20c3",
+    "description": "(ec3m20c3)2",
+    "license": "MIT",
+    "homepage": "https://github.com/ec3m20c3/ec3m20c3",
+    "type": "metapackage",
+    "require": {
+        "php": "^5.6 || ^7.0",
+    }
+}
