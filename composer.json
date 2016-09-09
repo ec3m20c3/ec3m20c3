@@ -7,6 +7,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^5.6 || ^7.0",
-        "ec3m20c3/ec3-auth": "^1.0"
+        "ec3m20c3/ec3-auth": "dev"
     }
 }
